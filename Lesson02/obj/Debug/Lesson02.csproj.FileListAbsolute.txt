@@ -1,0 +1,6 @@
+/Users/sdanilov/Games/Education/2021-Course-Unity-GB/UnityCourse/Basic-C#/Lesson02/bin/Debug/Lesson02.exe
+/Users/sdanilov/Games/Education/2021-Course-Unity-GB/UnityCourse/Basic-C#/Lesson02/bin/Debug/Lesson02.pdb
+/Users/sdanilov/Games/Education/2021-Course-Unity-GB/UnityCourse/Basic-C#/Lesson02/obj/Debug/Lesson02.csproj.AssemblyReference.cache
+/Users/sdanilov/Games/Education/2021-Course-Unity-GB/UnityCourse/Basic-C#/Lesson02/obj/Debug/Lesson02.csproj.CoreCompileInputs.cache
+/Users/sdanilov/Games/Education/2021-Course-Unity-GB/UnityCourse/Basic-C#/Lesson02/obj/Debug/Lesson02.exe
+/Users/sdanilov/Games/Education/2021-Course-Unity-GB/UnityCourse/Basic-C#/Lesson02/obj/Debug/Lesson02.pdb
