@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{F7A7EBC0-88B0-4271-B51B-C8C3CB4ADAFE}|Default">
+﻿<Properties StartupConfiguration="{A0BC82F7-85A6-4268-9A0E-94A3292DF6AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="96" Column="1" />
+      <File FileName="Program.cs" Line="130" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lesson02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
